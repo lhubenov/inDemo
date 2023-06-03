@@ -1,7 +1,6 @@
 test file
 test fiile second row
 
-
 just added a new row
 second new row
-
+---------------------
